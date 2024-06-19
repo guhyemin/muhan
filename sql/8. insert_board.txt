@@ -1,0 +1,17 @@
+insert into board (board_class, board_title, board_contents, board_file, board_ori_file) values 
+(0, '공지 글쓰기 테스트 제목입니다.', '공지 글쓰기 테스트 내용입니다.', '17175472477751.jpg', '1.jpg');
+insert into board (board_class, board_title, board_contents, board_file, board_ori_file) values 
+(1, '공지 글쓰기 테스트 제목 2 입니다.', '공지 글쓰기 테스트 내용 2 입니다.', '1717547272375heart1.png', 'heart1.png');
+insert into board (board_class, board_title, board_contents, board_file, board_ori_file) values 
+(0, '세번째 제목입니다.', '세번째 내용입니다다다다다', '17175473085461.jpg', '1.jpg');
+insert into board (board_class, board_title, board_contents) values (2, '랄라라라라4444', '네번째 내용이빈다.');
+insert into board (board_class, board_title, board_contents) values (2, '그런데 이거 날짜 포맷 바뀌는 거 
+어떻게 보여주죠', '모르겠다 나중에 업데이트로 바꿔야지');
+insert into board (board_class, board_title, board_contents) values (0, '몇 번재 글인지 모르겠어요', '음 
+모르겠다');
+insert into board (board_class, board_title, board_contents) values (1, '열 개까지 적어서 긁어야지', '으으으음');
+insert into board (board_class, board_title, board_contents) values (0, '열 개까지 몇 개 남았을까요', 
+'흠흠ㅁ흠흠');
+insert into board (board_class, board_title, board_contents) values (0, '두 개만 더 하면 된다', '두두두두두두두두두두두두두개');
+insert into board (board_class, board_title, board_contents) values (1, '이것은 인풋타입텍스트입니다', '이것은 
+텍스트에리어입닏.');

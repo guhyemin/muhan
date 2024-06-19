@@ -1,0 +1,12 @@
+insert dept(dept_name, dept_code,dept_nick) values ('오너', 0, 'CEO');
+insert dept(dept_name, dept_code,dept_nick) values ('총무부', 1, 'DON');
+insert dept(dept_name, dept_code,dept_nick) values ('인사과', 2, 'HR');
+insert dept(dept_name, dept_code,dept_nick) values ('기획팀', 3, 'PLAN');
+insert dept(dept_name, dept_code,dept_nick) values ('개발부', 4, 'JAVA');
+insert dept(dept_name, dept_code,dept_nick) values ('영업팀', 5, 'SALE');
+insert dept(dept_name, dept_code,dept_nick) values ('경영지원', 6, 'HELP');
+insert dept(dept_name, dept_code,dept_nick) values ('영업지원', 7, 'SUP');
+insert dept(dept_name, dept_code,dept_nick) values ('품질관리', 8, 'QC');
+insert dept(dept_name, dept_code,dept_nick) values ('생산부', 9, 'NGD');
+insert dept(dept_name, dept_code,dept_nick) values ('R&D', 10, 'RD');
+insert dept(dept_name, dept_code,dept_nick) values ('관리부', 11, 'MG');

@@ -1,0 +1,44 @@
+
+insert into user_info(user_num, user_dept, user_level, user_in_date, user_name, user_phone, user_addr, user_email, user_birth, user_reg_date, user_work_date) values (10000, 12, 3, '2020-05-02', '관리자1', '010-2222-2222', '서울특별시 강남구 테헤란로 14길 6 남도빌딩', '10000@muhan.com', '1978-05-05', now(), 1);
+
+insert into user_info(user_num, user_dept, user_level, user_in_date, user_name, user_phone, user_addr, user_email, user_birth, user_reg_date, user_work_date) values (10001, 12, 4, '2021-08-15', '관리자2', '010-2582-3845', '서울특별시 강남구 테헤란로 14길 6 남도빌딩', '10001@muhan.com', '1991-12-11', now(), 1);
+
+insert into user_info(user_num, user_dept, user_level, user_in_date, user_name, user_phone, user_addr, user_email, user_birth, user_reg_date, user_work_date) values (10002, 1, 1, '2020-05-02', '이석철', '010-7437-6873', '경기도 과천시 별양로 12', '10002@muhan.com', '1968-08-18', now(), 1);
+
+insert into user_info(user_num, user_dept, user_level, user_in_date, user_name, user_phone, user_addr, user_email, user_birth, user_reg_date, user_work_date) values (10003, 5, 3, '2020-10-18', '안준성', '010-9876-1357', '경기도 안양시 만안구 경수대로1200번길', '10003@muhan.com', '1975-12-08', now(), 1);
+
+insert into user_info(user_num, user_dept, user_level, user_in_date, user_name, user_phone, user_addr, user_email, user_birth, user_reg_date, user_work_date) values (10004, 5, 4, '2020-08-27', '이순기', '010-7693-2712', '경기 부천시 원미구 장말로 71', '10004@muhan.com', '1975-03-15', now(), 1);
+
+insert into user_info(user_num, user_dept, user_level, user_in_date, user_name, user_phone, user_addr, user_email, user_birth, user_reg_date, user_work_date) values (10005, 5, 5, '2020-12-13', '장발장', '010-1324-0978', '서울 관악구 신림로29길 8', '10005@muhan.com', '1979-01-24', now(), 1);
+
+insert into user_info(user_num, user_dept, user_level, user_in_date, user_name, user_phone, user_addr, user_email, user_birth, user_reg_date, user_work_date) values (10006, 5, 6, '2020-09-07', '인순이', '010-5691-2134', '서울 동작구 만양로 26 건양아파트', '10006@muhan.com', '1980-05-15', now(), 1);
+
+insert into user_info(user_num, user_dept, user_level, user_in_date, user_name, user_phone, user_addr, user_email, user_birth, user_reg_date, user_work_date) values (10007, 5, 7, '2020-11-25', '홍창기', '010-8903-1462', '서울 동작구 사당로 90', '10007@muhan.com', '1976-12-15', now(), 1);
+
+insert into user_info(user_num, user_dept, user_level, user_in_date, user_name, user_phone, user_addr, user_email, user_birth, user_reg_date, user_work_date) values (10008, 5, 8, '2020-10-28', '고우석', '010-5618-2536', '경기 용인시 기흥구 사은로126번길 10', '10008@muhan.com', '1979-03-04', now(), 1);
+
+insert into user_info(user_num, user_dept, user_level, user_in_date, user_name, user_phone, user_addr, user_email, user_birth, user_reg_date, user_work_date) values (10009, 5, 9, '2020-11-25', '임찬규', '010-3829-4586', '경기 성남시 분당구 동판교로 275', '10009@muhan.com', '1982-08-16', now(), 1);
+
+insert into user_info(user_num, user_dept, user_level, user_in_date, user_name, user_phone, user_addr, user_email, user_birth, user_reg_date, user_work_date) values (10010, 5, 10, '2022-08-12', '김민정', '010-5618-2536', '서울 금천구 가산로 99', '10010@muhan.com', '1984-01-01', now(), 1);
+
+insert into user_info(user_num, user_dept, user_level, user_in_date, user_name, user_phone, user_addr, user_email, user_birth, user_reg_date, user_work_date) values (10011, 5, 10, '2022-03-17', '김민수', '010-8212-1840', '서울 관악구 남부순환로198길 7', '10011@muhan.com', '1980-03-10', now(), 1);
+
+insert into user_info(user_num, user_dept, user_level, user_in_date, user_name, user_phone, user_addr, user_email, user_birth, user_reg_date, user_work_date) values (10012, 6, 7, '2022-10-17', '김민희', '010-8456-0886', '경기도 수원시 권선구 권중로 82', '10012@muhan.com', '1996-10-14', now(), 1);
+
+insert into user_info(user_num, user_dept, user_level, user_in_date, user_name, user_phone, user_addr, user_email, user_birth, user_reg_date, user_work_date) values (10013, 3, 7, '2022-12-08', '구혜민', '010-4596-2865', '경기도 안양시 동안구 동안로 70', '10013@muhan.com', '1995-02-03', now(), 1);
+
+insert into user_info(user_num, user_dept, user_level, user_in_date, user_name, user_phone, user_addr, user_email, user_birth, user_reg_date, user_work_date) values (10014, 4, 7, '2022-08-12', '강경은', '010-8763-7692', '서울 서초구 잠원로 37-48', '10014@muhan.com', '1997-08-14', now(), 1);
+
+insert into user_info(user_num, user_dept, user_level, user_in_date, user_name, user_phone, user_addr, user_email, user_birth, user_reg_date, user_work_date) values (10015, 2, 7, '2022-09-19', '이영규', '010-4585-5762', '서울 서초구 서초대로 385', '10015@muhan.com', '1993-11-07', now(), 1);
+
+insert into user_info(user_num, user_dept, user_level, user_in_date, user_name, user_phone, user_addr, user_email, user_birth, user_reg_date, user_work_date) values (10016, 11, 7, '2022-06-20', '박서영', '010-5765-7462', '서울 서초구 효령로 391', '10016@muhan.com', '1999-04-12', now(), 1);
+
+
+
+
+
+
+
+
+
+

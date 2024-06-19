@@ -1,0 +1,16 @@
+insert into approval(apr_writer, apr_upper, apr_title, apr_contents, apr_attach, apr_ori_attach, apr_u_time, apr_chk, 
+apr_reg_date) values (10011, 10005, '연차 결재 올립니다', '6월 11일 건강검진 예약으로 연차 올립니다. 결재 부탁드립니다.', NULL, NULL, now(), 0, now()); 
+
+insert into approval(apr_writer, apr_upper, apr_title, apr_contents, apr_attach, apr_ori_attach, apr_u_time, apr_chk, 
+apr_reg_date) values (10011, 10005, '출장 결재 올립니다', '승인 부탁드립니다.', NULL, NULL, now(), 0, now()); 
+
+insert into approval(apr_writer, apr_upper, apr_title, apr_contents, apr_attach, apr_ori_attach, apr_u_time, apr_chk, 
+apr_reg_date) values (10011, 10005, '부서 점심 회식 결재 올립니다', '결재 부탁드립니다.', NULL, NULL, now(), 0, now()); 
+
+insert into approval(apr_writer, apr_upper, apr_title, apr_contents, apr_attach, apr_ori_attach, apr_u_time, apr_chk, 
+apr_reg_date) values (10011, 10008, '결재 올립니다', '감사합니다.', NULL, NULL, now(), 0, now()); 
+
+insert into approval(apr_writer, apr_upper, apr_title, apr_contents, apr_attach, apr_ori_attach, apr_u_time, apr_chk, 
+apr_reg_date) values (10011, 10008, '육아휴직 신청서 입니다.', '감사합니다.', NULL, NULL, now(), 0, now()); 
+
+

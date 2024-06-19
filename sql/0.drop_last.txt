@@ -1,0 +1,13 @@
+drop table approval;
+drop table attend;
+drop table board;
+drop table comments;
+drop table dept;
+drop table event_photo;
+drop table levels;
+drop table m_reserve;
+drop table meetingroom;
+drop table schedules;
+drop table user_info;
+drop table worktime;
+drop table meetingtime;
