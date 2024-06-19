@@ -9,10 +9,10 @@
 ![html](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) 
 
-<br>
+<br><br>
 
 <h4> :blue_heart: 자세한 내용은 muhan_Intranet.pdf를 통해 확인하실 수 있습니다 :blue_heart:</h4>
-
+<br>
 ![로그인](https://github.com/guhyemin/muhan/assets/166671559/2d8341fd-e4d3-4c3b-ab8b-40fc21f687e2)
 ![비밀번호찾기1](https://github.com/guhyemin/muhan/assets/166671559/6ea7cc68-856a-488e-81ce-42c4595fca3b)
 ![비밀번호찾기2](https://github.com/guhyemin/muhan/assets/166671559/28a05b2b-0938-482f-997a-04792709a6a3)
