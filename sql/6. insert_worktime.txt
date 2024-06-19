@@ -1,2 +1,0 @@
-insert into worktime values (null,52);
-insert into worktime values (null,40);

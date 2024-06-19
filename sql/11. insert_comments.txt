@@ -1,6 +1,0 @@
-insert into comments (com_board_num, com_comment, com_commenter) values (9, '댓글 달면 이렇게 올라갑니다.', 
-10000);
-insert into comments (com_board_num, com_comment, com_commenter) values (9, '댓글은 어떻게 달려요?', 
-10000);
-insert into comments (com_board_num, com_comment, com_commenter) values (9, '사원들은 공지사항 확인했습니다라는 
-내용만 가능해요! ! 마치 KH학원처럼', 10000);
