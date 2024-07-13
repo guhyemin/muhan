@@ -11,7 +11,9 @@
 
 <br><br>
 
-<h4> :blue_heart: 자세한 내용은 muhan_Intranet.pdf를 통해 확인하실 수 있습니다 :blue_heart:</h4>
+<h4> :blue_heart: 자세한 내용은 아래 링크를 통해 확인하실 수 있습니다 :blue_heart:</h4>
+[muhan_Intranet.pdf](https://github.com/user-attachments/files/16200532/muhan_Intranet.pdf)
+
 <br>
 
 ![로그인](https://github.com/guhyemin/muhan/assets/166671559/2d8341fd-e4d3-4c3b-ab8b-40fc21f687e2)
